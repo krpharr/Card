@@ -1,1 +1,12 @@
+body {
+    background: white;
+}
 
+.container {
+    margin: 8;
+    padding: 16px;
+    width: 68%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
